@@ -54,14 +54,14 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT CONTROL
-  - {t: ▽, type: trans}
+  - LEFT ALT
   - LEFT COMMAND
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - RIGHT COMMAND
-  - {t: ▽, type: trans}
+  - RIGHT ALT
   - RIGHT CONTROL
   lower:
   - F12
