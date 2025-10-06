@@ -106,8 +106,8 @@ layers:
   - KP PLUS
   - '{'
   - '}'
-  - MUTE
-  - {t: ▽, type: trans}
+  - AC BACK
+  - BACK
   - '['
   - ']'
   - ;
@@ -168,7 +168,7 @@ layers:
   - PASTE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - MUTE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
