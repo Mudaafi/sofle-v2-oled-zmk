@@ -55,11 +55,11 @@
 
         apple-layout {
             bindings = <
-&trans  &trans  &trans            &trans  &trans            &trans                    &trans  &trans             &trans  &trans             &trans  &trans
-&trans  &trans  &trans            &trans  &trans            &trans                    &trans  &trans             &trans  &trans             &trans  &trans
-&trans  &trans  &trans            &trans  &trans            &trans                    &trans  &trans             &trans  &trans             &trans  &trans
-&trans  &trans  &trans            &trans  &trans            &trans  &trans    &trans  &trans  &trans             &trans  &trans             &trans  &trans
-                &kp LEFT_CONTROL  &trans  &kp LEFT_COMMAND  &trans  &trans    &trans  &trans  &kp RIGHT_COMMAND  &trans  &kp RIGHT_CONTROL
+&trans  &trans  &trans            &trans        &trans            &trans                    &trans  &trans             &trans         &trans             &trans  &trans
+&trans  &trans  &trans            &trans        &trans            &trans                    &trans  &trans             &trans         &trans             &trans  &trans
+&trans  &trans  &trans            &trans        &trans            &trans                    &trans  &trans             &trans         &trans             &trans  &trans
+&trans  &trans  &trans            &trans        &trans            &trans  &trans    &trans  &trans  &trans             &trans         &trans             &trans  &trans
+                &kp LEFT_CONTROL  &kp LEFT_ALT  &kp LEFT_COMMAND  &trans  &trans    &trans  &trans  &kp RIGHT_COMMAND  &kp RIGHT_ALT  &kp RIGHT_CONTROL
             >;
         };
 
