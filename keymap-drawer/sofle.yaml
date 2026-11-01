@@ -64,7 +64,7 @@ layers:
   - RIGHT ALT
   - RIGHT CONTROL
   lower:
-  - F12
+  - '&studio_unlock'
   - F1
   - F2
   - F3
@@ -77,7 +77,7 @@ layers:
   - F10
   - F11
   - '`'
-  - INSERT
+  - '1'
   - '2'
   - '3'
   - '4'
@@ -106,8 +106,8 @@ layers:
   - KP PLUS
   - '{'
   - '}'
-  - AC BACK
-  - BACK
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - '['
   - ']'
   - ;
